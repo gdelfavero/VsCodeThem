@@ -1,0 +1,27 @@
+{
+  "name": "powershell-grey-with-red",
+  "displayName": "Powershell Grey with Red",
+  "description": "Powershell Grey with Red Accents",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "license": "MIT",
+  "publisher": "gdelfavero",
+  "author": {
+    "name": "Georges Del Favero",
+    "email": "georges.delfavero@axxes.com"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Powershell Grey with Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Powershell Grey with Red-color-theme.json"
+      }
+    ]
+  }
+}
